@@ -1,4 +1,5 @@
 # crud-android-with-php-mysql
+Aplikasi ini masih menggunakan database lokal, jadi jika kalian ingin menggunakannya maka sesuaikan dengan IP komputer kalian 
 Aplikasi ini memiliki fitur 
 - Registrasi 
 - Login 
@@ -10,3 +11,4 @@ Aplikasi ini memiliki fitur
 - Foreground Service 
 - Notification 
 - dll
+Jika ada pertanyaan bisa dm ke "erixsyaifulr" :D
