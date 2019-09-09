@@ -1,5 +1,5 @@
 # crud-android-with-php-mysql
-Aplikasi ini masih menggunakan database lokal, jadi jika kalian ingin menggunakannya maka sesuaikan dengan IP komputer kalian 
+Aplikasi ini masih menggunakan database lokal, jadi jika kalian ingin menggunakannya maka sesuaikan dengan IP komputer kalian,
 Aplikasi ini memiliki fitur 
 - Registrasi 
 - Login 
